@@ -111,5 +111,6 @@
 			"stack": "cpp",
 			"any": "cpp"
 		},
+		"makefile.extensionOutputFolder": "./.vscode",
 	}
 }
